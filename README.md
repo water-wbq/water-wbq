@@ -5,7 +5,7 @@
 😄 I am interested in multi-variate time series forecasting, including
 - traffic forecasting: [DSTCGCN](https://arxiv.org/abs/2307.00518), [TrendGCN (CIKM 2023)](https://arxiv.org/abs/2208.03063)
 - weather forecasting: [WeatherGNN (IJCAI 2024)](https://arxiv.org/abs/2310.05517)
-- air quality forecasting: [GAGNN (TKDD)](https://arxiv.org/abs/2108.12238)
+- air quality forecasting: [GAGNN (TKDD)](https://arxiv.org/abs/2108.12238), [FAIRY (TCyber)](https://ieeexplore.ieee.org/abstract/document/10058013)
 - general multi-variate time series forecasting: [MAGNN (TKDE)](https://arxiv.org/abs/2201.04828)
 
 🔭 I am currently working on post-processing numerical weather prediction and precipitation nowcasting.
